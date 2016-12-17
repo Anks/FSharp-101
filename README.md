@@ -18,3 +18,10 @@ You should be able to create a new F# script file in your editor, and evaluate i
 [Code]: https://code.visualstudio.com/
 [Ionide]: http://ionide.io/
 
+## Reading order
+
+1. [01-Primitives.fsx](01-Primitives.fsx)
+   
+   Introduction to primitive types in F#; using `let` to create immutable variables.
+   
+
