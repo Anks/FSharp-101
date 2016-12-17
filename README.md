@@ -27,3 +27,13 @@ You should be able to create a new F# script file in your editor, and evaluate i
 2. [02-Functions.fsx](02-Functions.fsx)
 
    Using `let` to create functions; calling functions; recursion.
+
+3. [03-ComplexTypes.fsx](03-ComplexTypes.fsx)
+
+   Introduction to F# types: tuples, records, discriminated unions.
+   
+4. [04-Collections.fsx](04-Collections.fsx)
+
+   F# collection types: lists, arrays, maps, sets.
+   
+
