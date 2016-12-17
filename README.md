@@ -36,4 +36,6 @@ You should be able to create a new F# script file in your editor, and evaluate i
 
    F# collection types: lists, arrays, maps, sets.
    
+5. [05-PartialApplication.fsx](05-PartialApplication.fsx)
 
+   Currying & partial applications; pipeline operator in F#; common operations defined in the sequence module.
