@@ -24,4 +24,6 @@ You should be able to create a new F# script file in your editor, and evaluate i
    
    Introduction to primitive types in F#; using `let` to create immutable variables.
    
+2. [02-Functions.fsx](02-Functions.fsx)
 
+   Using `let` to create functions; calling functions; recursion.
